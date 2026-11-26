@@ -70,6 +70,6 @@ pdflatex female_governors_spending.tex
 
 ## 🧑‍💻 Author
 **Jemar John J. Lumingkit**
-* Mindanao State University – Iligan Institute of Technology (MSU-IIT)
+* UP-NCPAG GRIT Labs
 * **Email:** jemarjohn.lumingkit@msu.edu.ph
 * **Research Interests:** Computational Policy Modeling, Deep Reinforcement Learning, Digital Governance, Public Administration.
